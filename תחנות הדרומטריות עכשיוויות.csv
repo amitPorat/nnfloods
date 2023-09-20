@@ -1,0 +1,107 @@
+stationId,name,owner,lon,lat,shd_id,timebase,area_c,area_n,StationTarget,action_monitor_1,units_monitor_1
+310,Bezed,Ayyeka,35.11488911,33.07532098,1102,15,1,Western Galilee,None,TRUE,M³/sec
+388,Kziv,None,35.105806,33.051035,2105,60,1,Western Galilee,None,TRUE,M³/sec
+255,Gaaton,None,35.1309,32.9999,4110,15,1,Western Galilee,None,TRUE,M³/sec
+389,Beit Haemek,None,35.09486,32.985385,5110,15,1,Western Galilee,None,TRUE,M³/sec
+313,Yasaf,Ayyeka,35.09404443,32.95831325,6110,15,1,Western Galilee,None,TRUE,M³/sec
+49,Hillazon-Yasur,None,35.1783,32.89481259,7105,15,2,Kishon,None,TRUE,M³/sec
+330,HaShofet,None,35.11191123,32.63743339,8130,60,2,Kishon,None,TRUE,M³/sec
+256,BeitLechem,None,35.1380976,32.67811755,8140,60,2,Kishon,None,TRUE,M³/sec
+61,Qishon-Quarry,None,35.0993,32.7234,8146,15,2,Kishon,None,TRUE,M³/sec
+68,Zipori-Tel Alil,None,35.15325667,32.76725037,8155,15,2,Kishon,None,TRUE,M³/sec
+451,Kishon - Ram On,Ayyeka,35.2574,32.54175,8710,5,2,Kishon,None,TRUE,M³/sec
+332,Eliezer,None,34.98176,32.8306,9130,60,3,Carmel,None,TRUE,M³/sec
+315,Oren,Ayyeka,34.9851128,32.71476757,10114,5,3,Carmel,None,TRUE,M³/sec
+385,Maharal,Ayyeka,34.95516,32.64321,11150,15,3,Carmel,None,TRUE,M³/sec
+345,BatShlomo,None,34.98715,32.59109,12130,15,17,Taninim,None,TRUE,M³/sec
+50,Dalyya-Tel Aviv-Haifa Road,None,34.9479,32.5952,12140,60,17,Taninim,None,TRUE,M³/sec
+67,Taninim-Amiqam,None,35.00959821,32.55451852,13105,60,17,Taninim,None,TRUE,M³/sec
+70,Ada-Givat Ada,None,34.9989,32.5189,13125,60,17,Taninim,None,TRUE,M³/sec
+66,Barqan-Kefar Glickson,None,35.0007,32.5017,13135,60,17,Taninim,None,TRUE,M³/sec
+344,AdaKvish,None,34.9578,32.50727,13146,60,17,Taninim,None,TRUE,M³/sec
+341,HaderaAyyeka,Ayyeka,35.02183,32.40983,14109,15,4,Hadera - Alexander,None,TRUE,M³/sec
+342,Haviva,Ayyeka,35.02183,32.38279,14114,5,4,Hadera - Alexander,None,TRUE,M³/sec
+347,IronKvish,None,35.00971,32.45425,14115,60,4,Hadera - Alexander,None,TRUE,M³/sec
+254,Hadera-GanShemuel,None,34.95324543,32.43982658,14120,15,4,Hadera - Alexander,None,TRUE,M³/sec
+390,Teenim,None,34.993544,32.304005,15110,60,4,Hadera - Alexander,None,TRUE,M³/sec
+253,Shechem-Yad Hannah,None,35.014,32.325,15114,60,4,Hadera - Alexander,None,TRUE,M³/sec
+53,Alexander-Elyashiv,None,34.90525261,32.3736206,15120,15,4,Hadera - Alexander,None,TRUE,M³/sec
+441,Dror,Ayyeka,34.89338,32.25813,16740,5,4,Hadera - Alexander,None,TRUE,M³/sec
+442,Yarkon Road 5,Seba,32.0986,34.94732,17103,10,5,Yarkon,None,TRUE,M³/sec
+383,Raba,Ayyeka,34.94732,32.0986,17105,5,5,Yarkon,None,TRUE,M³/sec
+259,Qana-Yarhiv,None,34.9611,32.1467,17110,60,5,Yarkon,None,TRUE,M³/sec
+395,Shilo,Ayyeka,34.96243,32.07078,17126,5,5,Yarkon,None,TRUE,M³/sec
+59,Yarkon-Herzelia_road,None,34.8289,32.1048,17135,15,5,Yarkon,None,TRUE,M³/sec
+311,Lud,None,34.904294,31.958753,17144,15,5,Yarkon,None,TRUE,M³/sec
+391,Gezer,None,34.889087,31.918488,17147,60,5,Yarkon,None,TRUE,M³/sec
+262,Natuf-Elal,None,34.9045,31.984,17155,60,5,Yarkon,None,TRUE,M³/sec
+317,Shapirim,Ayyeka,34.87253858,31.97384496,17161,15,5,Yarkon,None,TRUE,M³/sec
+80,Bietarif,None,34.9165,32.01,17162,60,5,Yarkon,None,TRUE,M³/sec
+291,AylonNatbag,None,34.861795,32.007126,17164,60,5,Yarkon,None,TRUE,M³/sec
+81,Ayalon-Ezra,None,34.792,32.0411,17168,15,5,Yarkon,None,TRUE,M³/sec
+449,Kofer,None,34.83028,32.05685,17368,60,5,Yarkon,None,TRUE,M³/sec
+436,BeitZait,None,35.15557,31.78002,18107,60,6,Lachish - Sourek,None,TRUE,M³/sec
+257,Soreq-Hartuv,None,34.9951,31.7582,18115,60,6,Lachish - Sourek,None,TRUE,M³/sec
+392,Harel,None,34.950766,31.800811,18125,60,6,Lachish - Sourek,None,TRUE,M³/sec
+71,Soreq-Yesodot,None,34.8479,31.8086,18131,60,6,Lachish - Sourek,None,TRUE,M³/sec
+437,SorekKidron,None,34.79235,31.82615,18140,60,6,Lachish - Sourek,None,TRUE,M³/sec
+328,Sorek21,None,34.78243,31.83236,18146,60,6,Lachish - Sourek,None,TRUE,M³/sec
+394,Soreq-Yavne,None,34.7524,31.86984,18150,15,6,Lachish - Sourek,None,TRUE,M³/sec
+298,Ekron,None,34.782,31.8372,18178,15,6,Lachish - Sourek,None,TRUE,M³/sec
+72,Gamliel,None,34.7615,31.8997,18180,60,6,Lachish - Sourek,None,TRUE,M³/sec
+450,Nes Ziona,None,34.78575,31.9226,18193,60,6,Lachish - Sourek,None,TRUE,M³/sec
+393,Govrin,None,34.723991,31.705284,19130,60,6,Lachish - Sourek,None,TRUE,M³/sec
+260,Haela-Tel Zafit,None,34.8422,31.7049,19160,60,6,Lachish - Sourek,None,TRUE,M³/sec
+292,Gan Yavne,None,34.680648,31.781661,19178,60,6,Lachish - Sourek,None,TRUE,M³/sec
+54,Lachish-Ad Halom Park,None,34.6712,31.7869,19185,15,6,Lachish - Sourek,None,TRUE,M³/sec
+258,Shikma-Tel Malha,None,34.7715,31.4718,21105,60,7,Bsor - Shikma,None,TRUE,M³/sec
+69,Adurayim-Railway bridge,None,34.7807,31.5304,21120,60,7,Bsor - Shikma,None,TRUE,M³/sec
+64,Shikma-Beror Hayil,None,34.625,31.549,21130,60,7,Bsor - Shikma,None,TRUE,M³/sec
+76,Beer Sheva-Hazerim,None,34.7472,31.2293,23137,60,7,Bsor - Shikma,None,TRUE,M³/sec
+52,Besor-Reim,None,34.4505,31.3871,23150,60,7,Bsor - Shikma,None,TRUE,M³/sec
+65,Grar-Reim,None,34.4443,31.3998,23160,60,7,Bsor - Shikma,None,TRUE,M³/sec
+350,Dafna,None,35.63638005,33.23324809,30112,60,16,Golan-Kinneret,None,TRUE,M³/sec
+351,Tal,None,35.63578,33.23312,30113,60,16,Golan-Kinneret,None,TRUE,M³/sec
+352,DanPitzul,None,35.63210446,33.2365087,30114,60,15,Galilee North East,None,TRUE,M³/sec
+353,PaldiZfoni,None,35.62704629,33.23328014,30115,60,15,Galilee North East,None,TRUE,M³/sec
+354,PaldiDarom,None,35.62575066,33.23157145,30116,60,15,Galilee North East,None,TRUE,M³/sec
+355,SnirMaayan,None,35.62449,33.23771,30120,15,15,Galilee North East,None,TRUE,M³/sec
+55,Senir-Dan Road Bridge,None,35.6157,33.2238,30122,60,15,Galilee North East,None,TRUE,M³/sec
+261,Saar-Masada,None,35.762,33.2403,30124,60,16,Golan-Kinneret,None,TRUE,M³/sec
+297,HermonKvish,None,35.64016,33.21619,30128,15,16,Golan-Kinneret,None,TRUE,M³/sec
+299,NahalDan,None,35.6485,33.2457,30131,60,16,Golan-Kinneret,None,TRUE,M³/sec
+73,Jordan-Nehemya,None,35.615669,33.181147,30136,60,15,Galilee North East,None,TRUE,M³/sec
+75,Iyyon-Metulla,None,35.5837,33.282,30145,60,15,Galilee North East,None,TRUE,M³/sec
+438,Hula-Neot Mordechai,None,33.16295,35.59805,30151,60,15,Galilee North East,None,TRUE,M³/sec
+387,Kalil,None,35.62795,33.15265,30153,60,16,Golan-Kinneret,None,TRUE,M³/sec
+62,Orvim,None,35.6385,33.1441,30155,60,16,Golan-Kinneret,None,TRUE,M³/sec
+439,Hula connection canal,None,33.11067,35.58608,30161,60,15,Galilee North East,None,TRUE,M³/sec
+60,Dishon RP Metula Rd,None,35.5729,33.0423,30165,60,15,Galilee North East,None,TRUE,M³/sec
+77,Hazor-Ayelet Hashahar,None,35.5843,33.0232,30170,60,15,Galilee North East,None,TRUE,M³/sec
+440,Hula security canal,Ayyeka,35.63087,33.03451,30173,15,16,Golan-Kinneret,None,TRUE,M³/sec
+384,Shaal,Ayyeka,35.12043,33.03087,30175,15,1,Western Galilee,None,TRUE,M³/sec
+79,Jordan-Pkak,None,35.6307,33.0404,30175,60,16,Golan-Kinneret,None,TRUE,M³/sec
+329,GesherArik,None,35.61469,32.9026,30185,60,16,Golan-Kinneret,None,TRUE,M³/sec
+327,GaleyKinneret,None,35.58506,32.823346,31000,60,-999,-999,None,TRUE,M³/sec
+56,Amud,None,35.5216736,32.8553613,31110,60,15,Galilee North East,None,TRUE,M³/sec
+78,Zalmon,None,35.5161,32.8447,31115,60,15,Galilee North East,None,TRUE,M³/sec
+63,Meshushim,None,35.6523,32.9102,31155,60,16,Golan-Kinneret,None,TRUE,M³/sec
+74,Yehudiya,None,35.651097,32.898661,31160,60,16,Golan-Kinneret,None,TRUE,M³/sec
+51,Daliyyot,None,35.66221873,32.88453044,31163,60,16,Golan-Kinneret,None,TRUE,M³/sec
+331,Semech,None,35.65193,32.82916,31165,60,16,Golan-Kinneret,None,TRUE,M³/sec
+443,Jordan-Beit Zera,Ayyeka,35.5683,32.6905,31195,15,14,Valleys,None,TRUE,M³/sec
+293,Yavniel,None,35.544019,32.696649,32180,60,14,Valleys,None,TRUE,M³/sec
+294,Yarmuh,None,35.636043,32.684778,34160,60,16,Golan-Kinneret,None,TRUE,M³/sec
+312,Jorden gesher,Ayyeka,35.56434388,32.62478643,34190,15,14,Valleys,None,TRUE,M³/sec
+314,Issachar,Ayyeka,35.564639,32.55208,36150,15,14,Valleys,None,TRUE,M³/sec
+57,Harod,None,35.5204,32.5063,38175,60,14,Valleys,None,TRUE,M³/sec
+316,Jordan Kasr El Jahud new,Ayyeka,35.54674857,31.83700295,46105,15,13,Jordan Valley,None,TRUE,M³/sec
+349,Zeelim,Ayyeka,35.350325,31.352178,48141,5,12,Dead Sea,None,TRUE,M³/sec
+346,Arugot,Ayyeka,35.389727,31.458289,48156,5,12,Dead Sea,None,TRUE,M³/sec
+348,Rahaf,Ayyeka,35.374811,31.295715,48185,5,12,Dead Sea,None,TRUE,M³/sec
+378,Ashalim,Ayyeka,35.33009,31.06586,48197,2,12,Dead Sea,None,TRUE,M³/sec
+382,Zin90,Ayyeka,35.29806,30.94588,55193,5,11,Craters - Northern Arava,None,TRUE,M³/sec
+58,Ramon,None,34.8601,30.6144,56140,15,11,Craters - Northern Arava,None,TRUE,M³/sec
+295,Hayun,None,35.010493,30.186179,58150,15,9,Eilat Mt,None,TRUE,M³/sec
+296,Ketzev,None,35.023667,30.153769,58175,60,9,Eilat Mt,None,TRUE,M³/sec
+326,Kinet,Ayyeka,34.985432,29.592149,60175,60,10,Hayon Faran,None,TRUE,M³/sec
